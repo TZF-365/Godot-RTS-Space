@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c0uxy26e4qs4w"]
+
+[ext_resource type="Script" uid="uid://kupai6o6n0aq" path="res://source/match/handlers/MouseClickAnimationsHandler.gd" id="1_2s46w"]
+
+[node name="MouseClickAnimationsHandler" type="Node3D"]
+script = ExtResource("1_2s46w")
